@@ -1,0 +1,12 @@
+﻿<Window x:Class="HomeWorkWpf6.WindowMain"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HomeWorkWpf6"
+        mc:Ignorable="d"
+        Title="WindowMain" Height="117.858" Width="236.957">
+    <Grid>
+        <Button x:Name="buttonComeIn" Content="ComeIn" HorizontalAlignment="Left" Margin="55,10,0,0" VerticalAlignment="Top" Width="114" Click="ButtonComeIn_Click"/>
+    </Grid>
+</Window>
